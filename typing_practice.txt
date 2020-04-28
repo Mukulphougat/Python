@@ -1,0 +1,32 @@
+the quick brown fox jumps over the little lazy dog.
+the quick brown fox jumps over the little lazy dog.
+the quick brown fox jumps over the little lazy dog.
+the quick brown fox jumps over the little lazy dog.
+the quick brown fox jumps over the little lazy dog.
+the quick brown fox jumps over the little lazy dog.
+the quick brown fox jumps over the little lazy dog.
+the quick brown fox jumps over the little lazy dog.
+<- A database is a collection of many files. All the files are linked in such a way that any information can be fetched as per requirement.
+database is a collection of related information that acts as a songle centralized data bank for various data processing applcation.
+in other words when the related information is placed in an organized form it makes a database. this organization is necessary, as unorganized information has no meaning. for example, telephone directory is organized information where the names
+are arranged in an alphabetic order.
+in a manual system a database is stored on paper whereas in a computer based system it is stored on secondary storage devices. the information stored in a database is a part of the real world called mininworld or the universe of discourse.
+a database is designed and built to serve a specific purpose as needed by a group of users. database can be of any size and varying complexity. once designed database can be implemented in many forms. database represents a part of real world
+and any changes in this are reflected in tha database.
+A database may be generated and maintained manually
+or it may be computerized. For example, library card catalogue is a good example of this, which can be automated as well.
+Question-2 Explain the term DBMS.
+Answer:- Database management sustem(DBMS) is a software that enables users to interact with the database. It enables users to store, modify and extract information from a database as per the requirements.
+It is an intermediate layer between user programs and the data. User programs access the DBMS which then accesses the data. It controls the creation, maintenance and utilization of the databases of an organization.
+Thus a DBMS is a collection of 
+* Database which acts as a single centralized databank for various data processing applications.
+* Programs for the management of database.
+
+Question-3 What are the components of database system?
+Answer:- A database system refers to an organization of components that define and regulate the collection, storage, management and use of data within a database environment.
+Database system has four main components.These are:
+* Data: The most important component of database system is the data. The totality of data in the system is all stored in a single database. These data in a database are both integrated and shared in a system.
+* Hardware: Hardware is the physical device on which the database system resides, i.e., the hardware is the actual computer system used for keeping and accessing the database. This can range from a single PC
+  to a single mainframe or to a network of computers.
+* Software: In a database system, software lies between the stored data and the users of data. The software used for databases is known as DBMS. All requests made to database by users are handled by this software.
+* Users: Users are the people who interact with the database system. The users of a database system are divided into three categories based on the way they interact with the system. These are: application programmers, end users and data administrators.
